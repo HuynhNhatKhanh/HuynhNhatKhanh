@@ -5,7 +5,7 @@
 - 🌱: I’m currently learning English to improve communication skills for collaborating with international teams and staying updated with the latest trends in tech.
 - 📚: I'm also diving deeper into data structures and algorithms to enhance my problem-solving skills and optimize code efficiency in Golang.
 - 💬: Ask me about Golang development with gRPC and GraphQL, or tips for learning data structures and algorithms effectively.
-- 📫: You can reach me via email at [khanhhuynh28082000@gmail.com.com] or connect with me on LinkedIn.
+- 📫: You can reach me via email or connect with me on LinkedIn.
 - 😄: Pronouns: He/Him
 - ⚽️: I'm a big fan of soccer, both watching and playing!
 
