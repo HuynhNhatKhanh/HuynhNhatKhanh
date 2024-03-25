@@ -1,12 +1,13 @@
 ### Hi there, I'm Huynh Nhat Khanh👋
-- 🇻🇳 : I'm from VietNam
-- 🔭 : I’m currently working on developing backend services using Golang with gRPC for high-performance communication between microservices and GraphQL for flexible API querying.
-- 🌱 : I’m currently learning English to improve communication skills for collaborating with international teams and staying updated with the latest trends in tech.
-- 📚 : I'm also diving deeper into data structures and algorithms to enhance my problem-solving skills and optimize code efficiency in Golang.
-- 💬 : Ask me about Golang development with gRPC and GraphQL, or tips for learning data structures and algorithms effectively.
-- 📫 : You can reach me via email at [khanhhuynh28082000@gmail.com.com] or connect with me on LinkedIn.
-- 😄 : Pronouns: He/Him
-- ⚽️ : I'm a big fan of soccer, both watching and playing!
+- 🇻🇳: I'm from VietNam
+- 🎓: I graduated from University of Information Technology (UIT), Vietnam
+- 🔭: I’m currently working on developing backend services using Golang with gRPC for high-performance communication between microservices and GraphQL for flexible API querying.
+- 🌱: I’m currently learning English to improve communication skills for collaborating with international teams and staying updated with the latest trends in tech.
+- 📚: I'm also diving deeper into data structures and algorithms to enhance my problem-solving skills and optimize code efficiency in Golang.
+- 💬: Ask me about Golang development with gRPC and GraphQL, or tips for learning data structures and algorithms effectively.
+- 📫: You can reach me via email at [khanhhuynh28082000@gmail.com.com] or connect with me on LinkedIn.
+- 😄: Pronouns: He/Him
+- ⚽️: I'm a big fan of soccer, both watching and playing!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khanhhuynhnhat/)
