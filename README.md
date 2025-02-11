@@ -1,5 +1,4 @@
 ### Hi there, I'm Huynh Nhat Khanh👋
-- 🇻🇳: I'm from VietNam
 - 🎓: I graduated from University of Information Technology (UIT), Vietnam
 - 🔭: I’m currently working on developing backend services using Golang with gRPC for high-performance communication between microservices and GraphQL for flexible API querying.
 - 🌱: I’m currently learning English to improve communication skills for collaborating with international teams and staying updated with the latest trends in tech.
