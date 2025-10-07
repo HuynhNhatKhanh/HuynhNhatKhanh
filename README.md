@@ -1,10 +1,5 @@
 ### Hi there, I'm Huynh Nhat Khanh👋
-- 🎓: I graduated from University of Information Technology (UIT), Vietnam
-- 🔭: I’m currently working on developing backend services using Golang with gRPC for high-performance communication between microservices and GraphQL for flexible API querying.
-- 🌱: I’m currently learning English to improve communication skills for collaborating with international teams and staying updated with the latest trends in tech.
-- 📚: I'm also diving deeper into data structures and algorithms to enhance my problem-solving skills and optimize code efficiency in Golang.
-- 💬: Ask me about Golang development with gRPC and GraphQL, or tips for learning data structures and algorithms effectively.
-- ⚽️: I'm a big fan of soccer, both watching and playing!
+I’m a Software Engineer building Golang backend with gRPC and ReactJS frontend with GraphQL APIs. I’m passionate about learning AWS and cloud technologies to create scalable, high-performance systems.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khanhhuynhnhat/)
