@@ -25,7 +25,7 @@ I’m passionate about learning **AWS** and **cloud technologies** to create sca
 ---
 
 ## 🌱 Currently Learning
-- **AWS**: SAA-C03 & DVA-C01
+- **AWS**: SAA-C03 & DVA-C02
 - **Cloud architecture**: scalable, high-performance systems
 - **CI/CD**: pipelines with Docker & GitHub Actions
 
