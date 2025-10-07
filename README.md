@@ -13,7 +13,7 @@ I’m passionate about learning **AWS** and **cloud technologies** to create sca
 
 ## 💻 Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AWS Icon](https://img.shields.io/badge/AWS-Icon-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -21,11 +21,16 @@ I’m passionate about learning **AWS** and **cloud technologies** to create sca
 ![gRPC](https://img.shields.io/badge/-gRPC-000000?style=for-the-badge&logo=grpc&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ## 🌱 Currently Learning
-- **AWS**: SAA-C03 & DVA-C02
+- **AWS**: SAA-C03 & DVA-C01
 - **Cloud architecture**: scalable, high-performance systems
 - **CI/CD**: pipelines with Docker & GitHub Actions
+
+---
+
+## ⚡ Fun fact
+- I love building **Realtime Chat Systems** with multi-database architectures.  
+- I enjoy **learning new technologies fast** and applying them to production-ready projects.
