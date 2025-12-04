@@ -5,9 +5,34 @@ I’m passionate about learning **AWS** and **cloud technologies** to create sca
 ---
 
 ## 🏆 Certifications
-| **Achieved** | **Loading...** |
-|:---:|:---:|
-| <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect – Associate" /><br/>**AWS Solutions Architect**<br/>*(Associate)* | <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120" style="opacity: 0.5;" alt="AWS Certified Developer – Associate" /><br/>**AWS Developer**<br/>*(In Progress)* |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="50%">Achieved</th>
+      <th align="center" width="50%">Next Goal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="vertical-align: middle;">
+        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ecc6c4e55a20485aa01fd4be0f6876ed" target="_blank">
+          <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" alt="AWS Solutions Architect" />
+        </a>
+        <br/>
+        <b>AWS Solutions Architect</b>
+        <br/>
+        <i>(Passed)</i>
+      </td>
+      <td align="center" style="vertical-align: middle;">
+        <img src="https://wsrv.nl/?url=images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png&w=90&filt=greyscale" width="90" alt="AWS Developer" />
+        <br/>
+        <b>AWS Developer</b>
+        <br/>
+        <i>(Loading...)</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
