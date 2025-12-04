@@ -4,6 +4,13 @@ I’m passionate about learning **AWS** and **cloud technologies** to create sca
 
 ---
 
+## 🏆 Certifications
+| **Achieved** | **Loading...** |
+|:---:|:---:|
+| <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120" alt="AWS Certified Solutions Architect – Associate" /><br/>**AWS Solutions Architect**<br/>*(Associate)* | <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120" style="opacity: 0.5;" alt="AWS Certified Developer – Associate" /><br/>**AWS Developer**<br/>*(In Progress)* |
+
+---
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khanhhuynhnhat/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:khanhhuynh28082000@gmail.com)
@@ -25,9 +32,9 @@ I’m passionate about learning **AWS** and **cloud technologies** to create sca
 ---
 
 ## 🌱 Currently Learning
-- **AWS**: SAA-C03 & DVA-C02
-- **Cloud architecture**: scalable, high-performance systems
-- **CI/CD**: pipelines with Docker & GitHub Actions
+- **Cloud Architecture**: Designing scalable, high-performance systems.
+- **CI/CD**: Advanced pipelines with Docker & GitHub Actions.
+- **Deep Dive Golang**: Concurrency patterns, Memory management.
 
 ---
 
