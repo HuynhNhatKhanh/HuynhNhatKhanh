@@ -1,68 +1,48 @@
-### Hi there, I'm Huynh Nhat Khanh 👋
-I’m a Software Engineer building **Golang backend** with **gRPC** and **ReactJS frontend** with **GraphQL APIs**.  
-I’m passionate about learning **AWS** and **cloud technologies** to create scalable, high-performance systems.
+# Hi, I'm Huynh Nhat Khanh 👋
+
+**Backend Engineer, Golang.** I build event-driven services for multi-tenant SaaS: async job workers, queues, object storage, and the APIs around them. I also ship React/TypeScript frontends alongside the backend.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khanhhuynhnhat/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:khanhhuynh28082000@gmail.com)
+[![AWS SAA-C03](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/ecc6c4e55a20485aa01fd4be0f6876ed)
+[![AWS CLF-C02](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat&logo=amazonwebservices&logoColor=white)](https://cp.certmetrics.com/amazon/en/public/verify/credential/53d7da8e3d9c468aaf06fdf88fc99cba)
+![Profile views](https://komarev.com/ghpvc/?username=HuynhNhatKhanh&style=flat&color=0e75b6&label=Profile+views)
 
 ---
 
-## 🏆 Certifications
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="50%">Achieved</th>
-      <th align="center" width="50%">Next Goal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="vertical-align: middle;">
-        <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/ecc6c4e55a20485aa01fd4be0f6876ed" target="_blank">
-          <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="90" alt="AWS Solutions Architect" />
-        </a>
-        <br/>
-        <b>AWS Solutions Architect</b>
-        <br/>
-        <i>(Passed)</i>
-      </td>
-      <td align="center" style="vertical-align: middle;">
-        <img src="https://wsrv.nl/?url=images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png&w=90&filt=greyscale" width="90" alt="AWS Developer" />
-        <br/>
-        <b>AWS Developer</b>
-        <br/>
-        <i>(Loading...)</i>
-      </td>
-    </tr>
-  </tbody>
-</table>
+## 📦 Projects
+
+### [MEVLens](https://github.com/HuynhNhatKhanh/mevlens) — Arbitrum arbitrage observatory
+A Go service that reads every Arbitrum One block, detects atomic arbitrage on Uniswap v2/v3/v4-style pools, and records profit, gas and priority-fee bids before and after the switch to Priority Gas Auctions. Read-only research tool.
+- Concurrent block fetching with a **single-writer deterministic core** (ports & adapters, enforced by a lint rule and an architecture test)
+- Minimal Arbitrum-aware JSON-RPC client: batching, per-endpoint rate limits, failover across free endpoints
+- **ClickHouse** with idempotent batches and reorg rewind; **Prometheus + Grafana** dashboards and alerts
+- Design decisions written as ADRs
+
+### [auth-jwt](https://github.com/HuynhNhatKhanh/auth-jwt) — authentication service
+Go + Fiber, Clean Architecture: ES256 access/refresh tokens, OTP 2FA, account lockout, rate limiting, Redis token blacklist, Docker Compose, GitHub Actions CI, golangci-lint.
+
+### [grpc-user-service](https://github.com/HuynhNhatKhanh/grpc-user-service)
+Clean Architecture service exposing the same use cases over gRPC, gRPC-Gateway REST and Gin.
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khanhhuynhnhat/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:khanhhuynh28082000@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/huynhnhatkhanh)
+## 💼 At work (private code)
+
+**Hanbiro Vietnam, 01/2024 – 08/2026** — nCRM v4, a multi-tenant SaaS CRM (10+ Go microservices).
+- **Primary owner of 2 Go services:**
+  - **File & media pipeline:** RabbitMQ workers for virus scanning (ClamAV) and thumbnails (libvips/pdfium/ffmpeg), TTL retry queues, chunked bulk delete; Nginx serves thumbnails straight from disk, bypassing Go and the DB.
+  - **Tenant provisioning:** DNS, mail domain + DKIM and storage for each new tenant, automated from 30–60 min of manual work to about 1 minute.
+- Contributed to the team's Event Sourcing/CQRS framework, GraphQL gateway resolvers, and the orchestration layer of a RAG chatbot.
+- React/TypeScript alongside backend since 05/2024: analytics dashboards (ECharts), rule configuration screens, chatbot UI.
 
 ---
 
-## 💻 Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/-gRPC-000000?style=for-the-badge&logo=grpc&logoColor=white)
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠️ Stack
 
----
+**Main:** Go · gRPC/Protobuf · GraphQL · REST · RabbitMQ · PostgreSQL (Citus) · Ceph S3 · Docker · Nginx · Linux  
+**Also used:** React · TypeScript · MUI · ECharts · MySQL · ClickHouse · Prometheus/Grafana (MEVLens) · C# .NET 6 · PHP/Laravel  
+**Tools:** Claude Code for daily work, with tests and code review as the gate
 
-## 🌱 Currently Learning
-- **Cloud Architecture**: Designing scalable, high-performance systems.
-- **CI/CD**: Advanced pipelines with Docker & GitHub Actions.
-- **Deep Dive Golang**: Concurrency patterns, Memory management.
-
----
-
-## ⚡ Fun fact
-- I love building **Realtime Chat Systems** with multi-database architectures.  
-- I enjoy **learning new technologies fast** and applying them to production-ready projects.
+## 🌱 Open source
+Go best-practice guides for gRPC and Temporal, merged into [agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills).
