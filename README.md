@@ -12,6 +12,13 @@
 
 ## 📦 Projects
 
+### [vnsalary](https://github.com/HuynhNhatKhanh/vnsalary) — Vietnam gross ↔ net salary & income tax library
+[![Go Reference](https://pkg.go.dev/badge/github.com/HuynhNhatKhanh/vnsalary.svg)](https://pkg.go.dev/github.com/HuynhNhatKhanh/vnsalary)
+A Go library and CLI that computes Vietnamese net pay, compulsory insurance and personal income tax under the law in force on the payment date, exact to 1 VND. Released as v0.1.0–v0.3.0 on pkg.go.dev.
+- Every statutory number cites its decree or law article, including the 2026 PIT law (overtime, meal allowance, the tax a bonus adds)
+- Integer money, no floats; net → gross inverse proven to return the smallest gross
+- 36 golden cases from an independent reference implementation, 12 matched to the VND against TopCV; fuzzing; CI on three Go versions with the race detector; every change through a pull request
+
 ### [MEVLens](https://github.com/HuynhNhatKhanh/mevlens) — Arbitrum arbitrage observatory
 A Go service that reads every Arbitrum One block, detects atomic arbitrage on Uniswap v2/v3/v4-style pools, and records profit, gas and priority-fee bids before and after the switch to Priority Gas Auctions. Read-only research tool.
 - Concurrent block fetching with a **single-writer deterministic core** (ports & adapters, enforced by a lint rule and an architecture test)
